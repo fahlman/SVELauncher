@@ -60,7 +60,7 @@ Are you wondering what the heck just happened? Well, in the first step you decid
 
 ### Opening Stardew Valley Expanded Launcher.app
 
-*If you double click to open the app you will receive a dialog box stating "Stardew Valley Expanded Launcher.app" cannot be opened because the developer cannot be verified. This is becasue the app is not signed with a certificate issued by Apple. See: https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac*
+*If you double click to open the app you will receive a dialog box stating "Stardew Valley Expanded Launcher.app" cannot be opened because the developer cannot be verified. This is becasue the app is not signed with a certificate issued by Apple. See this [knowledge base article](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac).*
 
 1. Right-click on the Stardew Valley Expanded Launcher.app and choose Open from the contextual menu.
 2. Click the Open button in the dialog box.
