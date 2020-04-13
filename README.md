@@ -1,6 +1,6 @@
 # SVELauncher
 
-## Installation Instructions
+## Installation and Use Instructions
 
 ### Download and Install Stardew Valley Expanded Launcher.app
 
