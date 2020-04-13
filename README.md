@@ -48,7 +48,14 @@ Are you wondering what the heck just happened? Well, in the first step you decid
 
 1. Install the mod using the standard procedure in the Mods-SVE folder.
 
-### Installing Additional Mods for default and Stardew Valley Expanded Using The Less Easy, but Better Way
+### Installing Additional Mods for default and Stardew Valley Expanded
+
+### The Easy Way
+
+1. Install the mod using the standard procedure in the default Mods folder.
+2. Install the mod using the standard procedure in the default Mods-SVE folder.
+
+### The Less Easy, but Better Way
 
 *In the example below we're going to install a mod named MySuperMod. Replace any instance of MySuperMod with the name of the mod you want to install*
 
