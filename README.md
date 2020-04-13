@@ -53,7 +53,7 @@ Are you wondering what the heck just happened? Well, in the first step you decid
 #### The Easy Way
 
 1. Install the mod using the standard procedure in the default Mods folder.
-2. Install the mod using the standard procedure in the default Mods-SVE folder.
+2. Install the mod using the standard procedure in the Mods-SVE folder.
 
 #### The Less Easy, but Better Way
 
