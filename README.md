@@ -57,9 +57,9 @@ Are you wondering what the heck just happened? Well, in the first step you decid
 
 #### The Less Easy, but Better Way
 
-*In the example below we're going to install a mod named MySuperMod. Replace any instance of MySuperMod with the name of the mod you want to install*
+*In the example below we're going to install Content Patcher. In the command below replace ContentPatcher with the name of folder of the mod you want to install*
 
-1. Install MySuperMod mod using the standard procedure in the default Mods folder.
+1. Install the mod using the standard procedure in the default Mods folder.
 2. Open Terminal.app (You're an ol' hack by now).
 3. Enter the following command and tap the return key
-`ln -s ~/Library/Application\ Support/Steam/steamapps/common/Stardew\ Valley/Contents/MacOS/Mods/MySuperMod ~/Library/Application\ Support/Steam/steamapps/common/Stardew\ Valley/Contents/MacOS/Mods-SVE/`
+`ln -s ~/Library/Application\ Support/Steam/steamapps/common/Stardew\ Valley/Contents/MacOS/Mods/ContentPatcher ~/Library/Application\ Support/Steam/steamapps/common/Stardew\ Valley/Contents/MacOS/Mods-SVE/`
