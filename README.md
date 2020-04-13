@@ -1,4 +1,4 @@
-# SVELauncher
+# Stardew Valley Expanded Launcher
 
 ## Installation and Use Instructions
 
