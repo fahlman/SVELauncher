@@ -77,7 +77,7 @@ Are you wondering what the heck just happened? Well, in the first step you decid
 
 #### The easy and better way
 
-1. Install Stardew Valley Expanded Launcher.app as a "Non-Steam Game" using the instructions found in this [knowledge base article](https://support.steampowered.com/kb_article.php?ref=2219-YDJV-5557). *Ignore the warning in the knowledge base article about not receiving updates. See the "You Will Not Receive Stardew Valley Updates" section below.*
+1. Install Stardew Valley Expanded Launcher.app as a "Non-Steam Game" using the instructions found in this [knowledge base article](https://support.steampowered.com/kb_article.php?ref=2219-YDJV-5557). *Ignore the warning in the knowledge base article about not receiving updates. See the [You Will Not Receive Stardew Valley Updates](https://github.com/fahlman/SVELauncher/blob/master/README.md#you-will-not-receive-stardew-valley-updates) section below.*
 
 2. Launch Stardew Valley Expanded Launcher from within Steam.app
 
@@ -89,7 +89,7 @@ Are you wondering what the heck just happened? Well, in the first step you decid
 
 #### The easy and better way
 
-2. Using one of the workarounds in the "You Will Not Receive Steam Acheivements" section above will also result in the game receiving updates.
+2. Using one of the workarounds in the [You Will Not Receive Steam Acheivements](https://github.com/fahlman/SVELauncher/blob/master/README.md#you-will-not-receive-steam-acheivements) section above will also result in the game receiving updates.
 
 ### Console Commands Do Not Work
 
