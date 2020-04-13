@@ -53,7 +53,7 @@ Are you wondering what the heck just happened? Well, in the first step you decid
 
 ### Uninstalling a Mod Installed Using The Less Easy, but Better Way
 
-*The will not affect the installation in the original Mods folder.*
+*The will not affect the installation in the default Mods folder.*
 
 1. Throw the super-duper alias from the Mods-SVE folder in to the Trash to "uninstall" it.
 
