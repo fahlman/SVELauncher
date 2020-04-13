@@ -77,14 +77,18 @@ Are you wondering what the heck just happened? Well, in the first step you decid
 
 #### The easy way
 
-1. Launch the Steam.app before lauching the Stardew Valley Expanded Launcher.app.
+1. Launch the Steam.app
+
+2. Launch Stardew Valley Expanded Launcher.app.
 
 #### The easy and better way
 
-1. Install Stardew Valley Expanded Launcher.app as a "Non-Steam Game" using the instructions found in this [knowledge base article](https://support.steampowered.com/kb_article.php?ref=2219-YDJV-5557). Ignore the warning about not receiving updates and see the "You Will Not Receive Stardew Valley Updates" section above.
+1. Install Stardew Valley Expanded Launcher.app as a "Non-Steam Game" using the instructions found in this [knowledge base article](https://support.steampowered.com/kb_article.php?ref=2219-YDJV-5557). *Ignore the warning in the knowledge base article about not receiving updates. See the "You Will Not Receive Stardew Valley Updates" section above.*
+
+2. Launch Stardew Valley Expanded Launcher from within Steam.app
 
 ### Console Commands Do Not Work
 
-*There is a log widow, but there is no console window that will accept a console commmand.*
+*There is a log widow, but there is no console window that will accept a console commmand. I am working on a solution for this limitation.*
 
-1. Install [Chat Commands](https://www.nexusmods.com/stardewvalley/mods/2092). I am working on a solution for this limitation.
+1. Install [Chat Commands](https://www.nexusmods.com/stardewvalley/mods/2092).
