@@ -18,7 +18,7 @@
 (If you use Steam the location is /Users/YOURUSERNAME/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/)
 2. Install the mods required for Stardew Valley Expanded and any of your other favorite mods in the Mods-SVE folder.
 
-#### The less easy, but better way
+#### The Less Easy, but Better Way
 
 You probably have a bunch of other mods already installed in the default Mods folder, which you would also would like to use with Stardew Valley Expanded, but you don't want to install them a second time, because who in their right mind would want to manage the same mods twice? Not me!
 
@@ -33,8 +33,26 @@ Are you wondering what the heck just happened? Well, in the first step you decid
 
 ### Opening Stardew Valley Launcher.app
 
-*If you double click to open the app you will receive a dialog box stating "Stardew Valley Expanded Launcher.app" cannot be opened because the developer cannot be verified. This is becasue the app is not signed with a certificate issued by Apple.* See: [https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac]
+*If you double click to open the app you will receive a dialog box stating "Stardew Valley Expanded Launcher.app" cannot be opened because the developer cannot be verified. This is becasue the app is not signed with a certificate issued by Apple. See: https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac*
 
 1. Right-click on the Stardew Valley Launcher.app and choose Open from the contextual menu.
-2. Click the Open button in the dialog box
+2. Click the Open button in the dialog box.
 
+### Uninstalling Incompatible or Unwanted Mod Installed Using The Less Easy, but Better Way
+
+*The will not affect the installation in the original Mods folder.*
+
+1. Throw the super-duper alias from the Mods-SVE folder in to the Trash to "uninstall" it.
+
+### Installing Additional Mods for Stardew Valley Expanded
+
+1. Install the mod using the standard procedure in the Mods-SVE folder.
+
+### Installing Additional Mods for default and Stardew Valley Expanded Using The Less Easy, but Better Way
+
+*In the example below we're going to install a mod named MySuperMod. Replace any instance of MySuperMod with the name of the mod you want to install*
+
+1. Install MySuperMod mod using the standard procedure in the default Mods folder.
+2. Open Terminal.app (You're an ol' hack by now).
+3. Enter the following command and tap the return key
+`ln -s ~/Library/Application\ Support/Steam/steamapps/common/Stardew\ Valley/Contents/MacOS/Mods/MySuperMod ~/Library/Application\ Support/Steam/steamapps/common/Stardew\ Valley/Contents/MacOS/Mods-SVE/`
