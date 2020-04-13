@@ -16,7 +16,8 @@
 
 1. Create a folder named Mods-SVE in the same folder where the default Mods folder is located.
 (If you use Steam the location is /Users/YOURUSERNAME/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/)
-2. Install the mods required for Stardew Valley Expanded and any of your other favorite mods in the Mods-SVE folder.
+2. Install your favorite mods using the standard procedure in the Mods-SVE folder.
+3. Install Stardew Valley Expanded and its prerequisite mods using the standard procedure in the Mods-SVE folder.
 
 #### The Less Easy, but Better Way
 
@@ -44,7 +45,7 @@ Are you wondering what the heck just happened? Well, in the first step you decid
 
 #### The Less Easy, but Better Way
 
-*In the example below we're going to install Content Patcher. In the command below replace ContentPatcher with the name of folder of the mod you want to install*
+*In the example below we're going to install Content Patcher. In the command below replace ContentPatcher with the name of folder of the mod you want to install.*
 
 1. Install the mod using the standard procedure in the default Mods folder.
 2. Open Terminal.app (You're an ol' hack by now).
@@ -63,3 +64,25 @@ Are you wondering what the heck just happened? Well, in the first step you decid
 
 1. Right-click on the Stardew Valley Expanded Launcher.app and choose Open from the contextual menu.
 2. Click the Open button in the dialog box.
+
+### Known Limitations and Workarounds
+
+#### You Will Not Receive Steam Acheivements
+
+*Because Stardew Valley Extended Launcher.app is launching a Steam game you will still receive Steam achievements if you use either of the methods below.*
+
+1. Launch the Steam.app before lauching the Stardew Valley Expanded Launcher.app.
+
+2. Install Stardew Valley Expanded Launcher.app as a "Non-Steam Game" using the instructions found in this [knowledge base article](https://support.steampowered.com/kb_article.php?ref=2219-YDJV-5557). Ignore the warning about not receiving updates and see the next note.
+
+#### You will not receive Stardew Valley Updates
+
+*Because Stardew Valley Extended Launcher.app is launching a Steam game it will still receive updates if you use either of the methods below.*
+
+1. Launch the Steam.app before lauching the Stardew Valley Expanded Launcher.app.
+
+2. Install Stardew Valley Expanded Launcher.app as a "Non-Steam Game" using the instructions found in this [knowledge base article](https://support.steampowered.com/kb_article.php?ref=2219-YDJV-5557).
+
+#### Console Commands Do Not Work
+
+2. There is a log widow, but there is no console window that will accept a console commmand. If you are a regular user of console commands I recommend installing [Chat Commands](https://www.nexusmods.com/stardewvalley/mods/2092). I am working on a solution for this limitation.
