@@ -93,6 +93,4 @@ Are you wondering what the heck just happened? Well, in the first step you decid
 
 ### Console Commands Do Not Work
 
-*There is a log widow, but there is no console window that will accept a console commmand. ~~I am working on a solution for this limitation.~~*
-
 1. Install [Chat Commands](https://www.nexusmods.com/stardewvalley/mods/2092).
