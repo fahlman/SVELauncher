@@ -67,7 +67,7 @@ Are you wondering what the heck just happened? Well, in the first step you decid
 
 ## Known Limitations and Workarounds
 
-### You Will Not Receive Steam Acheivements
+### You Will Not Receive Steam Achievements
 
 #### The easy way
 
@@ -89,7 +89,7 @@ Are you wondering what the heck just happened? Well, in the first step you decid
 
 #### The easy and better way
 
-2. Using one of the workarounds in the [You Will Not Receive Steam Acheivements](https://github.com/fahlman/SVELauncher/blob/master/README.md#you-will-not-receive-steam-acheivements) section above will also result in the game receiving updates.
+2. Using one of the workarounds in the [You Will Not Receive Steam Achievements](https://github.com/fahlman/SVELauncher/blob/master/README.md#you-will-not-receive-steam-acheivements) section above will also result in the game receiving updates.
 
 ### Console Commands Do Not Work
 
